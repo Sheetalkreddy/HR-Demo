@@ -1,0 +1,91 @@
+Gender,Age,Education,EducationField,YearsAtCompany,Department,EnvironmentSatisfaction,JobLevel,NumCompaniesWorked,OverTime,PerformanceRating,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,DistanceFromHQ,State,AgeWhenHired,MaritalStatus,PercentSalaryHike,StockOptionLevel,Compensation
+F,28.0,Some College,Medical,0.0,Finance,High,Junior Associate,7.0,No,Excellent,8.0,2.0,2.0,0.0,0.0,0.0,9.5732,NY,43.0,Single,11.0,No Option Plan,0
+M,29.0,Masters,Technical Degree,9.0,Finance,Low,Junior Associate,6.0,No,Excellent,11.0,2.0,1.0,7.0,0.0,7.0,4.6975,NJ,46.0,Single,13.0,No Option Plan,0
+M,40.0,Masters,Life Sciences,5.0,Research & Development,Very High,Junior Associate,3.0,No,Excellent,15.0,3.0,1.0,4.0,1.0,0.0,0.697,NY,39.0,Single,14.0,No Option Plan,0
+M,31.0,Bachelors,Life Sciences,7.0,Research & Development,Very High,Junior Associate,1.0,No,Excellent,7.0,2.0,1.0,2.0,7.0,7.0,8.3584,NY,20.0,Single,12.0,No Option Plan,0
+M,35.0,Bachelors,Life Sciences,1.0,Research & Development,Low,Junior Associate,1.0,Yes,Excellent,1.0,2.0,3.0,0.0,0.0,0.0,4.3248,NJ,33.0,Divorced,12.0,Full Option Plan,0
+M,53.0,Doctorate,Technical Degree,33.0,Research & Development,High,Manager,0.0,No,Excellent,34.0,4.0,3.0,7.0,1.0,9.0,6.4593,NJ,36.0,Married,16.0,Full Option Plan,1
+M,38.0,Bachelors,Medical,5.0,Research & Development,High,Associate,4.0,No,Excellent,7.0,2.0,3.0,2.0,1.0,4.0,7.6115,NJ,23.0,Married,11.0,Large Option Plan,1
+F,28.0,Bachelors,Medical,1.0,Research & Development,High,Junior Associate,1.0,Yes,Excellent,7.0,3.0,3.0,1.0,0.0,0.0,3.9565,NY,32.0,Married,17.0,Small Option Plan,0
+M,40.0,Bachelors,Life Sciences,4.0,Information Technology,Low,Junior Associate,3.0,Yes,Excellent,10.0,3.0,1.0,2.0,0.0,3.0,7.0394,NY,46.0,Single,14.0,No Option Plan,0
+F,23.0,Below College,Medical,5.0,Information Technology,Very High,Junior Associate,1.0,Yes,Excellent,6.0,2.0,3.0,4.0,1.0,2.0,3.4916,NJ,22.0,Single,11.0,No Option Plan,0
+M,32.0,Masters,Life Sciences,1.0,Information Technology,Very High,Junior Associate,1.0,No,Excellent,1.0,2.0,3.0,0.0,0.0,0.0,1.0822,NY,20.0,Single,12.0,No Option Plan,0
+M,43.0,Bachelors,Technical Degree,1.0,Information Technology,High,Junior Associate,9.0,Yes,Excellent,6.0,4.0,3.0,0.0,0.0,0.0,5.2488,NJ,42.0,Married,16.0,Full Option Plan,0
+M,22.0,Below College,Medical,1.0,Information Technology,High,Junior Associate,1.0,Yes,Excellent,8.0,6.0,3.0,0.0,0.0,0.0,6.6316,NJ,26.0,Married,17.0,No Option Plan,0
+M,44.0,Some College,Medical,5.0,Information Technology,High,Junior Associate,1.0,Yes,Excellent,6.0,2.0,2.0,3.0,2.0,3.0,6.0575,NJ,21.0,Divorced,12.0,Small Option Plan,0
+M,34.0,Masters,Life Sciences,7.0,Research & Development,Very High,Associate,4.0,No,Excellent,11.0,3.0,2.0,1.0,0.0,7.0,6.2481,NY,50.0,Married,17.0,Full Option Plan,1
+M,37.0,Masters,Medical,10.0,Research & Development,Very High,Associate,1.0,No,Excellent,10.0,4.0,1.0,3.0,0.0,8.0,9.1561,NJ,29.0,Single,15.0,No Option Plan,0
+M,46.0,Some College,Medical,9.0,Operations,Very High,Associate,4.0,No,Outstanding,13.0,2.0,4.0,7.0,3.0,7.0,4.3923,NJ,28.0,Married,22.0,Full Option Plan,1
+M,29.0,Some College,Life Sciences,1.0,Operations,Very High,Junior Associate,1.0,Yes,Outstanding,1.0,3.0,2.0,0.0,1.0,0.0,8.149,NJ,45.0,Single,24.0,No Option Plan,0
+M,22.0,Below College,Life Sciences,1.0,Operations,Very High,Junior Associate,1.0,Yes,Outstanding,1.0,2.0,3.0,0.0,0.0,0.0,7.6726,NY,48.0,Single,23.0,No Option Plan,0
+M,34.0,Masters,Technical Degree,5.0,Operations,Very High,Junior Associate,1.0,Yes,Outstanding,5.0,2.0,3.0,2.0,3.0,0.0,2.4609,NY,31.0,Married,23.0,Full Option Plan,0
+M,56.0,Some College,Life Sciences,4.0,Operations,Low,Junior Associate,1.0,No,Excellent,8.0,3.0,3.0,2.0,1.0,0.0,3.4265,NY,20.0,Single,16.0,No Option Plan,0
+F,32.0,Some College,Life Sciences,4.0,Operations,Low,Junior Associate,3.0,Yes,Excellent,8.0,2.0,3.0,1.0,0.0,3.0,6.735,NJ,30.0,Single,14.0,No Option Plan,0
+M,28.0,Bachelors,Technical Degree,4.0,Operations,High,Junior Associate,5.0,No,Excellent,6.0,2.0,2.0,1.0,0.0,3.0,9.4662,NY,22.0,Divorced,12.0,Full Option Plan,0
+M,29.0,Masters,Medical,2.0,Research & Development,Low,Junior Associate,9.0,Yes,Excellent,4.0,3.0,4.0,2.0,2.0,2.0,6.8551,NY,24.0,Married,14.0,Small Option Plan,1
+M,56.0,Some College,Technical Degree,10.0,Research & Development,Very High,Junior Associate,8.0,No,Excellent,14.0,4.0,1.0,9.0,9.0,8.0,7.4187,NY,40.0,Married,11.0,Full Option Plan,0
+M,37.0,Some College,Other,0.0,Research & Development,Very High,Junior Associate,6.0,Yes,Excellent,7.0,3.0,3.0,0.0,0.0,0.0,6.473,NJ,35.0,Single,15.0,No Option Plan,0
+M,28.0,Bachelors,Life Sciences,4.0,Research & Development,High,Junior Associate,5.0,Yes,Excellent,6.0,4.0,3.0,2.0,0.0,3.0,3.1762,NY,39.0,Single,14.0,No Option Plan,0
+M,34.0,Below College,Medical,4.0,Research & Development,Medium,Junior Associate,2.0,No,Excellent,8.0,2.0,3.0,2.0,1.0,3.0,3.9625,NJ,41.0,Single,11.0,No Option Plan,0
+M,32.0,Below College,Life Sciences,10.0,Research & Development,Medium,Junior Associate,1.0,Yes,Outstanding,10.0,5.0,3.0,2.0,6.0,7.0,9.8336,NY,22.0,Single,22.0,No Option Plan,0
+M,24.0,Bachelors,Medical,2.0,Finance,Medium,Junior Associate,2.0,Yes,Excellent,6.0,2.0,2.0,0.0,2.0,0.0,13.3859,NJ,31.0,Married,16.0,No Option Plan,0
+F,26.0,Bachelors,Life Sciences,1.0,Finance,Low,Junior Associate,1.0,No,Excellent,1.0,2.0,2.0,0.0,0.0,1.0,5.1594,NY,38.0,Single,12.0,No Option Plan,0
+F,41.0,Bachelors,Technical Degree,22.0,Finance,Medium,VP to C-Level,1.0,No,Excellent,23.0,0.0,3.0,15.0,15.0,8.0,2.1822,NY,46.0,Married,12.0,No Option Plan,1
+M,48.0,Some College,Life Sciences,1.0,Finance,Low,Manager,9.0,Yes,Excellent,23.0,2.0,3.0,0.0,0.0,0.0,6.728,NJ,38.0,Single,13.0,No Option Plan,1
+M,28.0,Masters,Technical Degree,2.0,Finance,High,Junior Associate,1.0,Yes,Excellent,2.0,3.0,2.0,2.0,2.0,2.0,4.149,NY,22.0,Single,13.0,No Option Plan,0
+F,36.0,Bachelors,Medical,1.0,Research & Development,Very High,Junior Associate,0.0,Yes,Excellent,2.0,0.0,2.0,0.0,0.0,0.0,11.9696,NY,23.0,Married,17.0,Full Option Plan,0
+F,20.0,Bachelors,Life Sciences,1.0,Research & Development,Very High,Junior Associate,1.0,Yes,Excellent,1.0,5.0,3.0,0.0,1.0,0.0,1.2379,NY,32.0,Single,18.0,No Option Plan,0
+M,34.0,Bachelors,Life Sciences,9.0,Research & Development,Low,Associate,1.0,Yes,Outstanding,9.0,3.0,3.0,7.0,0.0,6.0,16.8442,NJ,22.0,Single,24.0,No Option Plan,1
+M,56.0,Masters,Life Sciences,5.0,Research & Development,Medium,Junior Associate,9.0,Yes,Excellent,7.0,2.0,3.0,4.0,4.0,3.0,15.0132,NJ,30.0,Married,18.0,Small Option Plan,1
+F,58.0,Masters,Medical,40.0,Research & Development,Very High,Manager,1.0,No,Excellent,40.0,3.0,2.0,10.0,15.0,6.0,14.9262,NY,49.0,Married,12.0,Full Option Plan,1
+M,51.0,Masters,Life Sciences,4.0,Research & Development,Low,Manager,2.0,No,Excellent,18.0,2.0,3.0,2.0,0.0,3.0,9.9861,NY,23.0,Single,15.0,No Option Plan,1
+F,32.0,Bachelors,Medical,5.0,Information Technology,Low,Junior Associate,7.0,No,Outstanding,10.0,2.0,4.0,4.0,0.0,4.0,5.3768,NY,47.0,Single,22.0,No Option Plan,0
+F,19.0,Bachelors,Life Sciences,1.0,Information Technology,Medium,Junior Associate,1.0,No,Outstanding,1.0,3.0,2.0,0.0,1.0,0.0,4.4333,NJ,24.0,Single,22.0,No Option Plan,0
+M,35.0,Some College,Life Sciences,1.0,Information Technology,Medium,Associate,3.0,Yes,Excellent,8.0,1.0,3.0,0.0,0.0,1.0,6.3743,NY,26.0,Married,13.0,No Option Plan,1
+M,38.0,Below College,Medical,1.0,Information Technology,Medium,Associate,7.0,Yes,Excellent,17.0,2.0,3.0,0.0,0.0,0.0,13.4953,NY,29.0,Married,19.0,No Option Plan,1
+M,30.0,Bachelors,Technical Degree,5.0,Information Technology,Very High,Junior Associate,5.0,Yes,Excellent,8.0,5.0,3.0,2.0,0.0,4.0,7.5996,NJ,34.0,Single,11.0,No Option Plan,0
+M,29.0,Bachelors,Technical Degree,6.0,Information Technology,High,Junior Associate,0.0,No,Excellent,7.0,1.0,2.0,2.0,1.0,5.0,14.4965,NY,49.0,Single,14.0,No Option Plan,0
+M,29.0,Below College,Medical,4.0,Research & Development,High,Junior Associate,1.0,Yes,Excellent,4.0,3.0,2.0,3.0,0.0,1.0,10.5334,NJ,38.0,Single,13.0,No Option Plan,0
+F,33.0,Bachelors,Medical,5.0,Research & Development,High,Junior Associate,5.0,Yes,Excellent,8.0,2.0,1.0,4.0,0.0,4.0,13.1351,NY,35.0,Married,13.0,No Option Plan,0
+M,33.0,Some College,Life Sciences,9.0,Research & Development,Low,Junior Associate,7.0,No,Outstanding,13.0,3.0,4.0,7.0,1.0,7.0,16.3831,NY,28.0,Married,20.0,No Option Plan,0
+M,32.0,Bachelors,Life Sciences,3.0,Research & Development,Very High,Junior Associate,0.0,Yes,Excellent,4.0,2.0,1.0,2.0,1.0,2.0,14.624,NY,47.0,Single,14.0,No Option Plan,0
+F,37.0,Bachelors,Medical,1.0,Research & Development,Low,Manager,6.0,No,Excellent,17.0,5.0,3.0,0.0,0.0,0.0,12.9569,NY,49.0,Divorced,11.0,Large Option Plan,1
+M,31.0,Some College,Medical,5.0,Research & Development,High,Junior Associate,0.0,No,Excellent,6.0,2.0,4.0,4.0,1.0,4.0,7.3641,NJ,34.0,Single,11.0,No Option Plan,0
+M,28.0,Masters,Life Sciences,0.0,Research & Development,Low,Junior Associate,2.0,No,Excellent,5.0,5.0,1.0,0.0,0.0,0.0,10.2809,NY,34.0,Single,11.0,No Option Plan,0
+F,47.0,Masters,Life Sciences,10.0,Research & Development,Low,Manager,1.0,Yes,Excellent,10.0,2.0,2.0,7.0,9.0,9.0,13.6378,NY,50.0,Married,12.0,Full Option Plan,1
+F,44.0,Bachelors,Life Sciences,1.0,Research & Development,Very High,Junior Associate,3.0,Yes,Outstanding,19.0,0.0,1.0,0.0,0.0,0.0,14.5974,NY,24.0,Divorced,22.0,Full Option Plan,0
+M,26.0,Masters,Medical,3.0,Research & Development,Low,Junior Associate,2.0,Yes,Excellent,7.0,2.0,3.0,2.0,0.0,2.0,14.1034,NY,34.0,Divorced,13.0,Full Option Plan,0
+F,18.0,Bachelors,Life Sciences,0.0,Research & Development,High,Junior Associate,1.0,No,Excellent,0.0,2.0,3.0,0.0,0.0,0.0,10.5401,NY,23.0,Single,13.0,No Option Plan,0
+F,52.0,Masters,Medical,8.0,Operations,High,Associate,2.0,No,Excellent,11.0,3.0,2.0,2.0,7.0,7.0,6.7039,NJ,19.0,Married,15.0,No Option Plan,1
+M,28.0,Masters,Medical,3.0,Operations,Low,Junior Associate,5.0,Yes,Excellent,8.0,4.0,2.0,2.0,2.0,2.0,12.5997,NY,43.0,Married,13.0,No Option Plan,0
+F,29.0,Masters,Other,7.0,Operations,Medium,Junior Associate,1.0,Yes,Excellent,7.0,4.0,2.0,7.0,0.0,7.0,11.309,NY,50.0,Married,11.0,No Option Plan,0
+M,26.0,Below College,Technical Degree,6.0,Operations,High,Junior Associate,0.0,No,Outstanding,7.0,2.0,3.0,4.0,0.0,4.0,8.3233,NY,29.0,Single,22.0,No Option Plan,0
+M,30.0,Bachelors,Technical Degree,1.0,Operations,High,Junior Associate,9.0,Yes,Outstanding,3.0,4.0,3.0,0.0,0.0,0.0,7.3144,NY,24.0,Single,23.0,No Option Plan,0
+M,25.0,Bachelors,Medical,2.0,Operations,Low,Junior Associate,5.0,No,Excellent,6.0,5.0,3.0,2.0,0.0,2.0,15.0826,NJ,24.0,Married,13.0,Full Option Plan,0
+F,29.0,Doctorate,Technical Degree,2.0,Operations,High,Junior Associate,5.0,No,Excellent,6.0,2.0,4.0,2.0,1.0,1.0,9.7906,NY,31.0,Married,16.0,No Option Plan,0
+M,33.0,Below College,Medical,7.0,Marketing,Medium,Manager,7.0,Yes,Excellent,15.0,2.0,4.0,6.0,7.0,7.0,5.5501,NY,39.0,Married,12.0,No Option Plan,1
+M,33.0,Below College,Medical,4.0,Marketing,Low,Junior Associate,7.0,No,Excellent,8.0,2.0,3.0,3.0,1.0,3.0,18.7621,NJ,50.0,Divorced,13.0,Small Option Plan,0
+F,31.0,Bachelors,Life Sciences,1.0,Research & Development,Low,Manager,3.0,No,Excellent,12.0,2.0,3.0,0.0,0.0,0.0,10.5788,NY,45.0,Married,12.0,No Option Plan,1
+M,22.0,Below College,Technical Degree,2.0,Research & Development,High,Junior Associate,5.0,No,Excellent,4.0,3.0,3.0,2.0,1.0,2.0,7.8803,NY,50.0,Single,16.0,No Option Plan,0
+M,26.0,Bachelors,Technical Degree,1.0,Research & Development,High,Junior Associate,1.0,Yes,Excellent,1.0,3.0,1.0,0.0,0.0,0.0,8.0493,NY,46.0,Single,18.0,No Option Plan,0
+M,24.0,Bachelors,Life Sciences,6.0,Research & Development,Low,Junior Associate,1.0,Yes,Excellent,6.0,4.0,3.0,3.0,1.0,2.0,16.4326,NJ,34.0,Married,16.0,No Option Plan,0
+M,20.0,Below College,Medical,1.0,Research & Development,Very High,Junior Associate,1.0,Yes,Excellent,1.0,5.0,3.0,0.0,1.0,1.0,19.3581,NY,47.0,Single,11.0,No Option Plan,0
+M,33.0,Bachelors,Life Sciences,10.0,Research & Development,Low,Junior Associate,1.0,Yes,Excellent,10.0,3.0,3.0,8.0,9.0,7.0,10.6122,NY,50.0,Single,11.0,No Option Plan,0
+F,28.0,Some College,Life Sciences,7.0,Research & Development,Low,Junior Associate,7.0,Yes,Excellent,10.0,4.0,3.0,7.0,3.0,7.0,1.9004,NY,31.0,Single,13.0,No Option Plan,0
+F,42.0,Bachelors,Medical,2.0,Research & Development,High,Junior Associate,6.0,Yes,Excellent,7.0,2.0,3.0,2.0,2.0,2.0,16.4479,NJ,42.0,Divorced,12.0,No Option Plan,0
+M,33.0,Masters,Other,10.0,Research & Development,Very High,Junior Associate,1.0,Yes,Excellent,10.0,2.0,2.0,9.0,7.0,8.0,14.8273,NY,45.0,Single,13.0,No Option Plan,0
+F,55.0,Bachelors,Medical,5.0,Finance,Very High,VP to C-Level,5.0,Yes,Excellent,24.0,2.0,3.0,2.0,1.0,4.0,6.3958,NJ,42.0,Married,13.0,Full Option Plan,1
+M,23.0,Bachelors,Life Sciences,0.0,Finance,High,Junior Associate,1.0,Yes,Outstanding,1.0,2.0,3.0,0.0,0.0,0.0,7.7381,NJ,38.0,Married,21.0,Large Option Plan,0
+M,29.0,Some College,Life Sciences,1.0,Finance,Medium,Junior Associate,1.0,Yes,Excellent,1.0,1.0,3.0,0.0,0.0,0.0,18.1115,NJ,21.0,Married,11.0,Full Option Plan,0
+M,58.0,Masters,Life Sciences,31.0,Finance,Very High,VP to C-Level,7.0,Yes,Excellent,40.0,2.0,3.0,15.0,13.0,8.0,12.0058,NY,41.0,Single,12.0,No Option Plan,1
+M,28.0,Masters,Medical,2.0,Finance,High,Junior Associate,6.0,No,Excellent,5.0,3.0,2.0,2.0,2.0,1.0,10.4402,NJ,28.0,Single,17.0,No Option Plan,0
+F,26.0,Some College,Medical,8.0,Research & Development,High,Junior Associate,1.0,Yes,Excellent,8.0,2.0,3.0,7.0,1.0,7.0,11.4704,NY,46.0,Married,14.0,No Option Plan,0
+F,35.0,Masters,Life Sciences,10.0,Research & Development,Very High,Junior Associate,1.0,Yes,Excellent,10.0,3.0,2.0,2.0,7.0,8.0,19.2795,NJ,47.0,Divorced,19.0,No Option Plan,0
+F,32.0,Masters,Life Sciences,1.0,Information Technology,Low,Junior Associate,1.0,Yes,Outstanding,1.0,2.0,1.0,0.0,0.0,1.0,10.6403,NJ,40.0,Single,24.0,No Option Plan,0
+F,58.0,Below College,Life Sciences,1.0,Information Technology,Very High,Junior Associate,9.0,Yes,Excellent,3.0,3.0,2.0,0.0,0.0,0.0,16.4957,NJ,39.0,Divorced,14.0,Full Option Plan,0
+F,21.0,Below College,Other,1.0,Information Technology,Very High,Junior Associate,1.0,No,Excellent,1.0,3.0,2.0,0.0,0.0,0.0,12.1079,NY,22.0,Single,19.0,No Option Plan,0
+M,22.0,Below College,Life Sciences,3.0,Information Technology,Medium,Associate,0.0,Yes,Excellent,4.0,3.0,4.0,2.0,0.0,2.0,15.5501,NY,37.0,Married,19.0,Full Option Plan,0
+M,41.0,Masters,Life Sciences,7.0,Information Technology,Medium,Junior Associate,4.0,Yes,Excellent,10.0,1.0,2.0,7.0,1.0,0.0,12.8825,NJ,33.0,Divorced,13.0,Full Option Plan,0
+F,39.0,Bachelors,Medical,2.0,Information Technology,Very High,Junior Associate,7.0,Yes,Outstanding,8.0,2.0,1.0,2.0,2.0,2.0,12.6798,NY,21.0,Married,21.0,No Option Plan,0
+M,20.0,Bachelors,Technical Degree,1.0,Research & Development,Low,Junior Associate,1.0,No,Excellent,1.0,2.0,3.0,0.0,0.0,0.0,16.6666,NJ,28.0,Single,19.0,No Option Plan,0
+M,58.0,Bachelors,Technical Degree,1.0,Research & Development,Very High,Junior Associate,4.0,No,Outstanding,7.0,4.0,3.0,0.0,0.0,0.0,18.7865,NJ,25.0,Single,24.0,No Option Plan,0
