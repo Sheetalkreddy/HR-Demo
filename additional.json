@@ -1,5 +1,5 @@
 
-{ data :
+{ "data" :
 [
   ["F",28,"Some College","Medical",0,"Finance","High","Junior Associate",7,"No","Excellent",8,2,2,0,0,0,9.5732,"NY",43,"Single",11,"No Option Plan",0  ],
   ["M",29,"Masters","Technical Degree",9,"Finance","Low","Junior Associate",6,"No","Excellent",11,2,1,7,0,7,4.6975,"NJ",46,"Single",13,"No Option Plan",0  ],
